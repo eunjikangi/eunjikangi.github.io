@@ -2,13 +2,12 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
-logo:
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+title: EundyLog
+logo: 
+author: Eundy
+description: 한땀한땀 가내수공업으로 만들고 내고있는 작고 소중한 블로그입니다.
+email: gjffodrjswh@gmail.com
+address: Republic of Korea
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -40,7 +39,7 @@ hero:
 
 social:
   - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/ag.__.gg/" }
   - { icon: "ti-dribbble", link: "#" }
   - { icon: "ti-twitter", link: "#" }
 
