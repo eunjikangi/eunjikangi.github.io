@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  First Test
+title:  첫 포스팅
 date:   2024-08-24
-image:  /assets/images/blog/post-5.jpg
+image:  /assets/images/blog/0824_Post.JPG
 author: eundy
 ---
 
-This is a Test Page.
+주말간 끙끙대며 깃 블로그를 만들어 냈다!
+나만의 공간이 생겼다는게 참 짜릿하다.
+
+한땀한땀 웅디화 시켜나가봐야지.
+마크다운 문법도 좀 익숙해질 필요가 있다! 
+
+무 야 호
